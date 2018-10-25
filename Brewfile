@@ -1,9 +1,6 @@
 
 brew 'git'
-cask 'iterm'
-cask 'zsh'
-
-cask 'go'
+cask 'iterm2'
 
 cask 'nvm'
 cask 'visual-studio-code'
