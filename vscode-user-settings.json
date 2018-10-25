@@ -1,0 +1,17 @@
+{
+    "window.zoomLevel": 0,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true,
+        "suppressWelcomeNotice": true
+    },
+    "explorer.confirmDragAndDrop": false,
+    "workbench.colorTheme": "Material Theme",
+    "materialTheme.cache.workbench.settings": {
+        "themeColours": "Default"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "vim.disableExtension": false,
+    "editor.lineNumbers": "relative",
+    "gitlens.keymap": "alternate",
+    "gitlens.historyExplorer.enabled": true
+}
