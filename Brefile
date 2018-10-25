@@ -1,0 +1,10 @@
+
+brew 'git'
+brew 'npm'
+brew 'yarn'
+brew 'node'
+cask 'visual-studio-code'
+cask 'atom'
+cask 'google-chrome'
+cask 'firefox'
+cask 'spotify'
