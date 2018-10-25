@@ -1,10 +1,17 @@
 
 brew 'git'
-brew 'npm'
-brew 'yarn'
-brew 'node'
+cask 'iterm'
+cask 'zsh'
+
+cask 'go'
+
+cask 'nvm'
 cask 'visual-studio-code'
 cask 'atom'
+cask 'sublime'
+
+cask 'postman'
+
 cask 'google-chrome'
 cask 'firefox'
 cask 'spotify'
